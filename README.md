@@ -42,9 +42,9 @@ predict on a single image and display the image
 
 ## PROGRAM
 
-### Name:ABISHEIK RAJ 
+### Name:RANJAN KUMAR G
 
-### Register Number:212224230006
+### Register Number:212223240138
 
 ```python
 import torch
